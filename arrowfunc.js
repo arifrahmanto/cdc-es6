@@ -7,7 +7,7 @@ console.log(`Fibonacci 10: ${fibonacci(10)}`);
 const profile = {
   name: 'Alex',
   getName: () => {
-      return profile.name 
+    return profile.name
   }
 };
 console.log(`Profile : ${profile.getName()}`);

@@ -6,4 +6,4 @@ function fullName(firstName, lastName) {
 }
 
 console.log(doubleMessage(3));
-console.log(fullName('Arif','Ismiadi'));
+console.log(fullName('Arif', 'Ismiadi'));
